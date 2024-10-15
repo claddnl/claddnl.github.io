@@ -1,10 +1,10 @@
 <h2 class="title">{{ site.title }}</h2>
 <nav>
     <a href="{{ site.url }}">now</a> 
-    <a href="{{ site.url }}{{ site.soapbox }}">soapbox</a>
-    <a href="{{ site.url }}{{ site.library }}">library</a>
-    <a href="{{ site.url }}{{ site.braindump }}">braindump</a>
-    <a href="{{ site.url }}{{ site.hmu }}">hmu</a>
+    <a href="{{ site.url }}{{ site.soapbox }}">soapbox.md</a>
+    <a href="{{ site.url }}{{ site.library }}">library.md</a>
+    <a href="{{ site.url }}{{ site.braindump }}">braindump.md</a>
+    <a href="{{ site.url }}{{ site.hmu }}">hmu.md</a>
 
     {% for link in site.links %}
         <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
