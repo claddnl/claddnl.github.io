@@ -4,7 +4,7 @@ title: now
 ---
 
 
-## A loosely structured personal blog
+## a loosely structured personal blog
  
 In lieu of an 'about' page, and in the spirit of the current, here is what I am currently working on, thinking about, seeking, reading, listening to, writing etc. You can find an archive of previous ‘now’ updates, gathering dust, here.
 
