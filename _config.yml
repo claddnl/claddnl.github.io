@@ -18,6 +18,7 @@ navigation:
 -{title: "library",file: "library.md"}
 -{title: "braindump",file: "braindump.md"}
 -{title: "hmu",file: "hmu.md"}
+-{title: "archive",file: "archive.md"}
 
 
 plugins:
