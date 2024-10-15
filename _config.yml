@@ -11,6 +11,15 @@ url: "https://claddnl.github.io" # the base hostname & protocol for your site
 #########################
 # more settings
 
+#menu
+navigation:
+-{title: "now",file: "index.md"}
+-{title: "soapbox",file: "soapbox.md"}
+-{title: "library",file: "library.md"}
+-{title: "braindump",file: "braindump.md"}
+-{title: "hmu",file: "hmu.md"}
+
+
 plugins:
   - jekyll-redirect-from
 
