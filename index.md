@@ -18,7 +18,7 @@ In the shorter term though:
 
 **Doing**: Attending the RTAU’s Fairness Challenge showcase (hmu if you’re also going)
 
-**Seeking**: Looking to talk to someone who has thought in depth about the structural vs quick wins policing conundrum, and how to deal with some of the perverse incentives that drive it. ([more here re county lines gangs](https://www.tandfonline.com/doi/full/10.1080/10439463.2023.2223341); see also: Londons phone theft problems treatment as a petty crime issue, [despite the organised crime that drives it](https://www.ibtimes.co.uk/cybersecurity-expert-reveals-why-more-more-stolen-phones-london-are-ending-china-1726329) [and particularly re the latter: why are the data gaps so large?]
+**Seeking**: Looking to talk to someone who has thought in depth about the structural vs quick wins policing conundrum, and how to deal with some of the perverse incentives that drive it. ([more here re county lines gangs](https://www.tandfonline.com/doi/full/10.1080/10439463.2023.2223341); see also: Londons phone theft problems treatment as a petty crime issue, [despite the organised crime that drives it](https://www.ibtimes.co.uk/cybersecurity-expert-reveals-why-more-more-stolen-phones-london-are-ending-china-1726329) [and particularly re the latter: why are the data gaps so large?])
 
 **Reading**: Kleptopia: How Dirty Money is Capturing the World by Tom Burgis
 
