@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: soapbox
-description: Here be writings
+description: longer form bits
 permalink: /soapbox
 ---
 
