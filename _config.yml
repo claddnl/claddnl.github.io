@@ -55,7 +55,7 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /soapbox
+soapbox: /soapbox
 hmu: /hmu
 now: /now
 library: /library
