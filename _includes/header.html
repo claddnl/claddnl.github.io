@@ -1,16 +1,16 @@
 <h2 class="title">{{ site.title }}</h2>
 <nav>
     <a href="{{ claddnl.github.io }}">now</a> 
-    <a href="{{ claddnl.github.io }}{{ soapbox.md }}">soapbox.md</a>
-    <a href="{{ site.url }}{{ site.library }}">library.md</a>
-    <a href="{{ site.url }}{{ site.braindump }}">braindump.md</a>
-    <a href="{{ site.url }}{{ site.hmu }}">hmu.md</a>
+    <a href="{{ claddnl.github.io }}{{ soapbox }}">soapbox</a>
+    <a href="{{ site.url }}{{ site.library }}">library</a>
+    <a href="{{ site.url }}{{ site.braindump }}">braindump</a>
+    <a href="{{ site.url }}{{ site.hmu }}">hmu</a>
 
     {% for link in site.links %}
         <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
     
     {% for link in site.special_links %}
-            <a href="{{ link[1] }}">[{{ link[0] }}]</a>
+        <a href="{{ link[1] }}">[{{ link[0] }}]</a>
     {% endfor %}
 </nav>
