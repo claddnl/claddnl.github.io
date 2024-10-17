@@ -22,10 +22,12 @@ In the shorter term though:
 
 **Reading**: Kleptopia: How Dirty Money is Capturing the World by Tom Burgis
 
+Dark Data: Why what you don't know matters by David J. Hand
+
 **Listening to**: [The Kill List, by Wondery](https://wondery.com/shows/kill-list/). 
 
 **Writing**: A long-form piece on long term illness and Britain’s productivity puzzle (prompted, in part, by a recent rereading of [this Guardian piece](https://www.theguardian.com/society/2023/dec/24/500000-under-35s-out-of-work-long-term-illness-uk) from earlier this year)
 
 **Watching**: Love is Blind Habibi
 
-*Last updated: Tuesday 15th October*
+*Last updated: Thursday 17th October*
