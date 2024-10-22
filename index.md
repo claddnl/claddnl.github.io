@@ -6,13 +6,13 @@ title: now
 
 ## a loosely structured personal blog
  
-In lieu of an 'about' page, and in the spirit of the current, here is what I am currently working on, thinking about, seeking, reading, listening to, writing etc. You can find an archive of previous ‘now’ updates, gathering dust, here.
+In lieu of an 'about' page, and in the spirit of the current, here is what I am currently working on, thinking about, seeking, reading, listening to, writing etc. 
 
 This year I am a fellowship candidate at Newspeak House, an *‘independent residential college founded in 2015 to study, nurture and inspire emerging communities of practice across civil society and the public sector in the UK’* and so I expect this will shape much of my thinking and approach over the current year. I’m still narrowing down a problem to work on, and am very open to input and ideas.
 
 In the shorter term though: 
 
-**Working on**: The Employment Rights Bill - thinking this week about gaps, opportunities, cross-departmental potential, and the eternal curse of Britain’s obsession with consultations.
+**Working on**: The Data Bill. No thoughts right now, just a long unending scream into the void.
 
 **Thinking about**: The unseen impacts of Britain's openness to dirty money.
 
