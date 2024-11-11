@@ -12,22 +12,11 @@ This year I am a fellowship candidate at Newspeak House, an *‘independent resi
 
 In the shorter term though: 
 
-**Working on**: The Data Bill. No thoughts right now, just a long unending scream into the void.
+**Working on**: Amendments various pieces of legislation (the data bill, the employment rights bill, etc) that allow for better conditions for workers across the UK. 
 
-**Thinking about**: The unseen impacts of Britain's openness to dirty money.
+**Thinking about**: US General Election Results.
 
-**Doing**: Organising a Newspeak US Election Night event with fellow-cohort-fellows! You can sign up below if you'd like to join
-
-<iframe
-  src="https://lu.ma/embed/event/evt-s0Idp3N9Husq9Mt/simple"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+**Doing**: Organising a hackathon - no public details yet, but coming soon.
 
 **Seeking**: Looking to talk to someone who has thought in depth about the structural vs quick wins policing conundrum, and how to deal with some of the perverse incentives that drive it. ([more here re county lines gangs](https://www.tandfonline.com/doi/full/10.1080/10439463.2023.2223341); see also: Londons phone theft problems treatment as a petty crime issue, [despite the organised crime that drives it](https://www.ibtimes.co.uk/cybersecurity-expert-reveals-why-more-more-stolen-phones-london-are-ending-china-1726329) [and particularly re the latter: why are the data gaps so large?])
 
@@ -35,10 +24,10 @@ In the shorter term though:
 
 Dark Data: Why what you don't know matters by David J. Hand
 
-**Listening to**: [The Kill List, by Wondery](https://wondery.com/shows/kill-list/). 
+**Listening to**: Sick Parade: A crisis at Catterick Garrison, by Tortoise media.
 
 **Writing**: A long-form piece on long term illness and Britain’s productivity puzzle (prompted, in part, by a recent rereading of [this Guardian piece](https://www.theguardian.com/society/2023/dec/24/500000-under-35s-out-of-work-long-term-illness-uk) from earlier this year)
 
-**Watching**: Nothing! Attempting a screen free week (or at least, until the next ep of Love is Blind drops)
+**Watching**: Nothing! Attempting a screen free ~month~ (or at least, until the next ep of Love is Blind drops)
 
-*Last updated: Tuesday 22nd October*
+*Last updated: Monday 11th November*
