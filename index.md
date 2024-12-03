@@ -12,22 +12,20 @@ This year I am a fellowship candidate at Newspeak House, an *‘independent resi
 
 In the shorter term though: 
 
-**Working on**: Amendments various pieces of legislation (the data bill, the employment rights bill, etc) that allow for better conditions for workers across the UK. 
+**Working on**: Tech to make worker transitions more effective.
 
-**Thinking about**: US General Election Results.
+**Thinking about**: Start up founders, god complexes, and political hubris (sociologically speaking)
 
 **Doing**: Organising a hackathon - no public details yet, but coming soon.
 
-**Seeking**: Looking to talk to someone who has thought in depth about the structural vs quick wins policing conundrum, and how to deal with some of the perverse incentives that drive it. ([more here re county lines gangs](https://www.tandfonline.com/doi/full/10.1080/10439463.2023.2223341); see also: Londons phone theft problems treatment as a petty crime issue, [despite the organised crime that drives it](https://www.ibtimes.co.uk/cybersecurity-expert-reveals-why-more-more-stolen-phones-london-are-ending-china-1726329) [and particularly re the latter: why are the data gaps so large?])
+**Seeking**: Looking to talk to someone who has thought in depth about the structural vs quick wins policing conundrum, and how to deal with some of the perverse incentives that drive it. ([more here re county lines gangs](https://www.tandfonline.com/doi/full/10.1080/10439463.2023.2223341); see also: Londons phone theft problems treatment as a petty crime issue, [despite the organised crime that drives it](https://www.ibtimes.co.uk/cybersecurity-expert-reveals-why-more-more-stolen-phones-london-are-ending-china-1726329) [and particularly re the latter: why are the data gaps so large?]). More concretely, anyone interested in structuring a proposal for a new approach to fund and resource allocation for this problem as a pilot through the GLA/Metropolitan Police, using data gathered from 1500+ victims of these crimes in past months.
 
-**Reading**: Kleptopia: How Dirty Money is Capturing the World by Tom Burgis
+**Reading**: The Price of My Soul by Bernadette Devlin
 
-Dark Data: Why what you don't know matters by David J. Hand
-
-**Listening to**: Sick Parade: A crisis at Catterick Garrison, by Tortoise media.
+**Listening to**: An English Gentleman, by Tortoise media.
 
 **Writing**: A long-form piece on long term illness and Britain’s productivity puzzle (prompted, in part, by a recent rereading of [this Guardian piece](https://www.theguardian.com/society/2023/dec/24/500000-under-35s-out-of-work-long-term-illness-uk) from earlier this year)
 
-**Watching**: Nothing! Attempting a screen free ~month~ (or at least, until the next ep of Love is Blind drops)
+**Watching**: On repeat; videos of Gerry Hutch sprinting out of the election count centre following his defeat last week. Slán a chara!
 
-*Last updated: Monday 11th November*
+*Last updated: Monday 2nd December*
